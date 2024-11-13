@@ -93,7 +93,7 @@ public class MainTest {
         wall.setHeight(20);
         assertEquals(wall.getHeight(), 20);
 
-        wall.setHeight(-10);
+        wall.setHeight(-10;
         assertEquals(wall.getHeight(), 0);
     }
 
